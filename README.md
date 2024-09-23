@@ -1,5 +1,5 @@
 # Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
-
+### Date:
 ## AIM:
 To write a program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 
@@ -78,7 +78,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![decision tree classifier model](sam.png)
+
 ### Accuracy:
 ![Screenshot 2024-09-23 113639](https://github.com/user-attachments/assets/61ac016a-74e2-4257-a881-861266d09864)
 
