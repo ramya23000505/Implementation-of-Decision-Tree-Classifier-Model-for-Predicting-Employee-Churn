@@ -81,7 +81,8 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ### Accuracy:
 ![Screenshot 2024-09-23 113639](https://github.com/user-attachments/assets/61ac016a-74e2-4257-a881-861266d09864)
-
+### Predict:
+![Screenshot 2024-09-23 113926](https://github.com/user-attachments/assets/3ab355ce-422a-4b2b-aa39-5c80dab9eb71)
 
 
 ## Result:
